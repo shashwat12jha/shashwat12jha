@@ -1,74 +1,122 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
 
-###
+<div align="center">
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javacript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=latex" height="60" alt="latex logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="60" alt="netlify logo"  />
-  <img width="12" /> 
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+
+
+# Hello hello, I'm Shashwat 👋
+
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=06D6A0&center=true&vCenter=true&width=700&lines=Frontend+Developer;Game-Developer;Data+Analyst;Competitive+Programmer;Building+cool+things" />
+
+
+
+<p align="center">
+
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5zd2liaTIzOHV2MDZmejdhZnF3dnBncnY1bTJ3cjFvYnZuMHQ4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UDclWKlmfmq7twI3iJ/giphy.gif" width="300" alt="coding gif">
+
+</p>
+
+
+
+<br>
+
+
+
+
+
+### 🧠 About Me
+
+
+
+This is an Algorithm-enthusiast running its Djikstras' to find his way-out!
+
+
+
+
+### ⚒️ Tech Arsenal
+
+<div align="center">
+
+#### 💻 Languages
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,c,html,css" />
+
+<br><br>
+
+#### 🚀 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+
+<br><br>
+
+#### ⚙️ Backend & APIs
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi" />
+
+<br><br>
+
+#### 🤖 AI / ML & Data
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy" />
+
+<br><br>
+
+#### 🎮 Game Development
+<img src="https://skillicons.dev/icons?i=java" />
+<br>
+<b>Java Swing • Chess Engine Development</b>
+
+<br><br>
+
+#### 🗄️ Databases & Cloud
+<img src="https://skillicons.dev/icons?i=appwrite,firebase,netlify,vercel" />
+
+<br><br>
+
+#### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,anaconda,latex" />
+
+<br><br>
+
+#### 🗺️ GIS & Design
+<img src="https://skillicons.dev/icons?i=blender" />
+<br>
+<b>QGIS • OpenStreetMap • Canva • DaVinci Resolve</b>
+
+</div>
   
 </div>
 
-###
 
-<div data-importer="socials" align="center">
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
+ 
+
+
+### 📊 GitHub Stats
+
+
+
+<div align="center">
+
+  <!-- Streak Stats -->
+
+  <img src="https://streak-stats.demolab.com?user=shashwat12jha&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+
   
-  <a href="https://leetcode.com/u/Babu_Don/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-  </a>
-  
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
-  </a>
-  
-  <a href="https://twitch.tv/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo" />
-  </a>
-  
-  <a href="https://dev.to/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" />
-  </a>
+
+  <!-- Trophy Graph (Using the fast, local GitHub Action you set up!) -->
+
+  <img src="profile/trophy.svg" height="150" alt="trophy graph" />
+
 </div>
 
 
 
-###
-<div data-importer="socials" align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/shashwat-kumar-jha-b0a390321/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  
-  <!-- GitHub -->
-  <a href="https://github.com/shashwat12jha" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
-  </a>
+<br>
 
-  <!-- Kaggle -->
-  <a href="https://www.kaggle.com/shashwatkumarjha" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="kaggle logo" />
-  </a>
-  
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/u/Babu_Don/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo" />
-  </a>
-  
 
-###
+
+
+
+
+
 
 <div data-importer="stats" align="center">
   <img src="profile/trophy.svg" height="150" alt="trophy graph" />
