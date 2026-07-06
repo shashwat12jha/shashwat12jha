@@ -18,4 +18,4 @@ jobs:
       - name: Generate Contribution Graph SVGs
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{shashwat12jha}}
+          github_user_name: ${{ shashwat12jha }}
