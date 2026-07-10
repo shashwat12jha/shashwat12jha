@@ -29,7 +29,7 @@
 
 
 
-This is an Algorithm-enthusiast running its Djikstras' to find his way-out!
+This is an Algorithm-enthusiast running its Dijkstras' to find his way-out!
 
 
 
